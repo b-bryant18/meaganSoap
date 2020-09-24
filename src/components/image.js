@@ -1,8 +1,8 @@
 import React from 'react';
-import Image from 'react-bootstrap/Image';
+import Logo from '../images/logo.png';
 
 function Image() {
-    return <img src={} alt="logo"></img>
+    return <img src={Logo} alt="logo"></img>
 }
 
 export default Image;
