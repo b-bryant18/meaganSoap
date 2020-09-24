@@ -1,6 +1,3 @@
-.App {
-  text-align: center;
-}
 
 .App-header {
   background-color: #282c34;
@@ -12,6 +9,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.container {
+  text-align: center;
+}
+
 
 
 /* background image (wood.jpg) is from Jon Moore @thejmoore via unsplash.com */

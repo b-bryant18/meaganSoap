@@ -6,7 +6,7 @@ import Wood from './images/wood.jpg';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <header className="App-header">
         <Image />
         Murphy & Breedlove Selfcare Products
