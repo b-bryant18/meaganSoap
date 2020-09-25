@@ -6,7 +6,7 @@ import Content from './components/content';
 
 function App() {
   return (
-    <div className="container">
+    <div className="background">
       <header className="App-header">
         <Image />
         Murphy & Breedlove Selfcare Products

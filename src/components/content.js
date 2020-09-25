@@ -5,9 +5,19 @@ function Content() {
     return (
         <Container>
             <Row>
-                <Col> <p>Some text</p> </Col>
-                <Col> <p>Some text</p> </Col>
-                <Col> <p>Some text</p> </Col>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+            </Row>
+            <Row>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+            </Row>
+            <Row>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
             </Row>
         </Container>
     )
