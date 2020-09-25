@@ -9,9 +9,9 @@ function App() {
     <div className="background">
       <header className="App-header">
         <Image />
-        Murphy & Breedlove Selfcare Products
+        <h4 id="title">Murphy & Breedlove Selfcare Products</h4>
       </header>
-      <Content></Content>
+      <Content />
 
     </div>
   );

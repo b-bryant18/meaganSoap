@@ -5,22 +5,22 @@ function Content() {
     return (
         <Container>
             <Row>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
             </Row>
             <Row>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
             </Row>
             <Row>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
+                <Col> <h5>Product</h5> </Col>
             </Row>
         </Container>
     )
