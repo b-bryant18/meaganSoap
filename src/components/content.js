@@ -5,7 +5,9 @@ function Content() {
     return (
         <Container>
             <Row>
-                <Col>.Col </Col>
+                <Col> <p>Some text</p> </Col>
+                <Col> <p>Some text</p> </Col>
+                <Col> <p>Some text</p> </Col>
             </Row>
         </Container>
     )
