@@ -8,13 +8,16 @@ function Content() {
                 <Col> <p>Product</p> </Col>
                 <Col> <p>Product</p> </Col>
                 <Col> <p>Product</p> </Col>
-            </Row>
-            <Row>
-                <Col> <p>Product</p> </Col>
-                <Col> <p>Product</p> </Col>
                 <Col> <p>Product</p> </Col>
             </Row>
             <Row>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+                <Col> <p>Product</p> </Col>
+            </Row>
+            <Row>
+                <Col> <p>Product</p> </Col>
                 <Col> <p>Product</p> </Col>
                 <Col> <p>Product</p> </Col>
                 <Col> <p>Product</p> </Col>
