@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: antiquewhite;
 }
 
 
@@ -20,10 +20,12 @@
 
 /* Welcome text under logo */
 h5 {
-  color: white;
+  color: antiquewhite;
 }
 
 /* Footer */
 .footer {
 text-align: center;
+color: antiquewhite;
+background-color: #282c34;
 }
