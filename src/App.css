@@ -9,6 +9,8 @@
   color: white;
 }
 
+
+/* background image (wood.jpg) is from Jon Moore @thejmoore via unsplash.com */
 .container {
   background-image: url(./images/wood.jpg);
   text-align: center;
@@ -16,10 +18,8 @@
   min-width: 100%;
 }
 
+/* Welcome text under logo */
 h5 {
   color: white;
 }
 
-
-
-/* background image (wood.jpg) is from Jon Moore @thejmoore via unsplash.com */
