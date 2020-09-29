@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Image from './components/image';
 import Content from './components/content';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
         <h4 id="title">Murphy & Breedlove Selfcare Products</h4>
       </header>
       <Content />
-
+      <Footer />
     </div>
   );
 }
